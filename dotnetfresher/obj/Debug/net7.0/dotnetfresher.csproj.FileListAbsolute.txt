@@ -1,0 +1,15 @@
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/bin/Debug/net7.0/dotnetfresher
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/bin/Debug/net7.0/dotnetfresher.deps.json
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/bin/Debug/net7.0/dotnetfresher.runtimeconfig.json
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/bin/Debug/net7.0/dotnetfresher.dll
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/bin/Debug/net7.0/dotnetfresher.pdb
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.csproj.AssemblyReference.cache
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.GeneratedMSBuildEditorConfig.editorconfig
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.AssemblyInfoInputs.cache
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.AssemblyInfo.cs
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.csproj.CoreCompileInputs.cache
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.dll
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/refint/dotnetfresher.dll
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.pdb
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/dotnetfresher.genruntimeconfig.cache
+/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/Debug/net7.0/ref/dotnetfresher.dll
