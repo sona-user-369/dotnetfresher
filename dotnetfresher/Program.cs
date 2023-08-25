@@ -3,7 +3,7 @@
 Console.WriteLine("Hello, World!");
 
 var name = Console.ReadLine() ;
-var currenDate = DateTime.Now ;
-Console.WriteLine($"{Environment.NewLine} user {name} on {currenDate:d} at {currenDate:t}");
+var currentDate = DateTime.Now ;
+Console.WriteLine($"{Environment.NewLine} user {name} on {currentDate:d} at {currentDate:t}");
 Console.WriteLine($"{Environment.NewLine} press any key to exit");
 Console.ReadKey(true);
