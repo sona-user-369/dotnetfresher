@@ -5,5 +5,6 @@ Console.WriteLine("Hello, World!");
 var name = Console.ReadLine() ;
 var currentDate = DateTime.Now ;
 Console.WriteLine($"{Environment.NewLine} user {name} on {currentDate:d} at {currentDate:t}");
-Console.WriteLine($"{Environment.NewLine} press any key to exit");
-Console.ReadKey(true);
+Console.WriteLine(Environment.CurrentDirectory);
+Console.WriteLine(Environment.OSVersion.VersionString);
+

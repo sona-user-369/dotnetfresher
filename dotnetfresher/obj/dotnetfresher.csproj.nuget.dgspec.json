@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj": {}
+    "/media/davakan/6D93980E77F3AB4C/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj": {}
   },
   "projects": {
-    "/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj": {
+    "/media/davakan/6D93980E77F3AB4C/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj",
+        "projectUniqueName": "/media/davakan/6D93980E77F3AB4C/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj",
         "projectName": "dotnetfresher",
-        "projectPath": "/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj",
+        "projectPath": "/media/davakan/6D93980E77F3AB4C/Projets/Capuch/dotnetfresher/dotnetfresher/dotnetfresher.csproj",
         "packagesPath": "/home/davakan/.nuget/packages/",
-        "outputPath": "/home/davakan/Documents/Projets/Capuch/dotnetfresher/dotnetfresher/obj/",
+        "outputPath": "/media/davakan/6D93980E77F3AB4C/Projets/Capuch/dotnetfresher/dotnetfresher/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/davakan/.nuget/NuGet/NuGet.Config"
