@@ -1,10 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿global using System ;
+using System.Reflection;
 
-Console.WriteLine("Hello, World!");
+Assembly? myApp = Assembly.GetEntryAssembly();
 
-var name = Console.ReadLine() ;
-var currentDate = DateTime.Now ;
-Console.WriteLine($"{Environment.NewLine} user {name} on {currentDate:d} at {currentDate:t}");
-Console.WriteLine(Environment.CurrentDirectory);
-Console.WriteLine(Environment.OSVersion.VersionString);
+if (myApp == null) return;
 
+foreach (AssemblyName name in myApp.GetReferencedAssemblies())
+{
+    Assembly a = Assembly.Load(name);
+
+    int countMethod = 0;
+    
+    foreach(TypeInfo t in a.DefinedTypes)
+    {
+        countMethod =+ t.GetMethods().Count();
+    }
+    
+    Console.WriteLine(
+        "{0:N0} type with {1:N0} methods in {2} assembly",
+        arg0:a.DefinedTypes.Count(),
+        arg1:countMethod,
+        arg2:name.Name
+        );
+
+
+}
